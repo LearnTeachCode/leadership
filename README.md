@@ -1,7 +1,9 @@
 # leadership
 For the Learn to Code LA leadership team to organize ideas and next steps for improving and growing our community.
 
-### See https://github.com/LearnToCodeLA/leadership/issues for all ideas / challenges to discuss / next tasks.
+### See https://github.com/LearnToCodeLA/leadership/projects for agile or kanban style boards organizing tasks and issues
+
+### See https://github.com/LearnToCodeLA/leadership/issues for full list of issues
 
 ### Members of leadership team: https://github.com/orgs/LearnToCodeLA/teams/leadership
 
