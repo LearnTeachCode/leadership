@@ -1,6 +1,6 @@
 # Study Group Hosting Guide - Learn Teach Code
 
-This is a first draft / brain dump of notes for tips and tricks for study group hosts. Soon we hope to have a semi-official onboarding process to go with this. :)
+This is a first draft of tips and tricks for new meetup group hosts. Soon we hope to have a semi-official onboarding process to go with this. :) In the meantime, read on! And please leave a comment or submit a pull request with any questions or suggestions!
 
 **Table of Contents:**
 - [Initial Questions for Onboarding New Hosts](#initial-questions-for-onboarding-new-hosts)
@@ -19,7 +19,7 @@ Welcome to our Learn Teach Code community! We're so happy you're interested in h
 
 - **What part of LA are you based in?** We have members from all over, so host it in a place that's convenient for you! We are happy to help you find a venue too. Coffee shops, restaurants with wifi, coworking spaces, or libraries can all be good venues.
 
-- **What do you hope to learn from being a host?** Just asking out of curiosity! For example, Liz Krane started Learn Teach Code in early 2015 to make new friends, get over her social anxiety, motivate herself to continue learning, and improve her leadership skills. Running a group is also an excellent way to build up your professional network!
+- **What do you hope to learn from being a host?** Just asking out of curiosity! For example, Liz Krane started Learn Teach Code (originally named Learn to Code LA) in early 2015 for a few reaons: to stay motivated in learning to code, to make friends, to get over her social anxiety, and to improve her leadership skills. Running a group is also an excellent way to build up your professional network!
 
 **So the first things you'll have to decide are:**
 - What's the topic of your study group?
