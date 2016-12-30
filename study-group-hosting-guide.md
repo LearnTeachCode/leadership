@@ -1,4 +1,4 @@
-# Study Group Hosting Guide - Learn to Code LA
+# Study Group Hosting Guide - Learn Teach Code
 
 This is a first draft / brain dump of notes for tips and tricks for study group hosts. Soon we hope to have a semi-official onboarding process to go with this. :)
 
@@ -11,7 +11,7 @@ This is a first draft / brain dump of notes for tips and tricks for study group 
 
 ## Initial Questions for Onboarding New Hosts
 
-Welcome to our Learn to Code LA community! We're so happy you're interested in hosting your own study group with us! :) Before we talk about anything else, the most important thing for you to remember is that you should make this as **fun** and **convenient** as possible for *yourself* first. Our community is large enough (over 4000 members!) that whatever works for you will work for other people too!
+Welcome to our Learn Teach Code community! We're so happy you're interested in hosting your own study group with us! :) Before we talk about anything else, the most important thing for you to remember is that you should make this as **fun** and **convenient** as possible for *yourself* first. Our community is large enough (over 4000 members!) that whatever works for you will work for other people too!
 
 - **What topics and formats are you interested in?** Topics can be as broad or specific as you want, like "Computer science discussion group" or "Beginners Minecraft modding with Python". Formats include: casual study groups (hands-on with laptops), discussion groups (no laptops), group projects, workshops, or anything else you think of!
 
@@ -19,7 +19,7 @@ Welcome to our Learn to Code LA community! We're so happy you're interested in h
 
 - **What part of LA are you based in?** We have members from all over, so host it in a place that's convenient for you! We are happy to help you find a venue too. Coffee shops, restaurants with wifi, coworking spaces, or libraries can all be good venues.
 
-- **What do you hope to learn from being a host?** Just asking out of curiosity! For example, Liz Krane started Learn to Code LA in early 2015 to make new friends, get over her social anxiety, motivate herself to continue learning, and improve her leadership skills. Running a group is also an excellent way to build up your professional network!
+- **What do you hope to learn from being a host?** Just asking out of curiosity! For example, Liz Krane started Learn Teach Code in early 2015 to make new friends, get over her social anxiety, motivate herself to continue learning, and improve her leadership skills. Running a group is also an excellent way to build up your professional network!
 
 **So the first things you'll have to decide are:**
 - What's the topic of your study group?
