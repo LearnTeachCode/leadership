@@ -11,7 +11,7 @@ This is a first draft of tips and tricks for new meetup group hosts. Soon we hop
 
 ## Initial Questions for Onboarding New Hosts
 
-Welcome to our Learn Teach Code community! We're so happy you're interested in hosting your own study group with us! :) Before we talk about anything else, the most important thing for you to remember is that you should make this as **fun** and **convenient** as possible for *yourself* first. Our community is large enough (over 4000 members!) that whatever works for you will work for other people too!
+Welcome to our Learn Teach Code community! We're so happy you're interested in hosting your own study group with us! :) Before we talk about anything else, the most important thing for you to remember is that you should make this as **fun** and **convenient** as possible for *yourself* first. Our community is large enough (over 6500 members in LA) that whatever works for you will work for other people too!
 
 - **What topics and formats are you interested in?** Topics can be as broad or specific as you want, like "Computer science discussion group" or "Beginners Minecraft modding with Python". Formats include: casual study groups (hands-on with laptops), discussion groups (no laptops), group projects, workshops, or anything else you think of!
 
@@ -25,13 +25,15 @@ Welcome to our Learn Teach Code community! We're so happy you're interested in h
 - What's the topic of your study group?
 - How often do you want to host it?
 - Then pick a consistent day/time (so it's easy to remember, like "every other Friday at 7pm")
-- How long do you want it to be for? (usually 2-3 hours is good)
-- How structured do you want it to be? (totally up to you! Can be very casual, or all planned out ahead of time)
+- How long do you want each meeting to be? (usually 2-3 hours is good)
+- How structured do you want it to be? (totally up to you, however social/casual or structured/formal)
 
 
 ## Advice for New Hosts
 
 - Jump right in, host your first meeting, and see who shows up! You can change your plan at any time based on feedback from your group. Keep iterating until you discover what works best.
+
+- Also take a look at this quick read which has good advice on starting a casual study group in SoutH LA: https://medium.freecodecamp.org/it-turns-out-my-neighbors-wanted-to-learn-to-code-too-they-just-didn-t-realize-it-was-possible-554a7bd8d4a7
 
 - The venue is always the hardest part -- definitely check them out in person first and scope out the parking. Coffee shops are fine, just try to find one with decent wifi and access to electrical outlets. (If you can’t find any nearby, you can always just host a discussion group without laptops for now! And we can help find a better venue to sponsor the group once it gets started.)
 
@@ -49,7 +51,7 @@ Welcome to our Learn Teach Code community! We're so happy you're interested in h
 
 - If you’re able to and interested, try including some purely social outings before or after your main events to give people a chance to get to know each other as friends and not just study partners! Going out for food or drinks after the meeting once in a while is a great way to increase the sense of community -- plus it can be really fun! (One time our web dev study group even went bowling after the meetup. It was awesome!)
 
-- Post the meetup events one at a time instead of using Meetup.com’s recurring event feature -- it’s just a little buggy and inconvenient to use.
+- Either post the meetup events one at a time, or if using Meetup.com's recurring event feature, only post them for one month at a time. (The feature can be a bit buggy, and also this way you don't need to commit to hosting too far out in advance.)
 
 - Post each meetup event ideally 1-2 weeks in advance of the event date.
 
